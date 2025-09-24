@@ -18,6 +18,4 @@ For privacy reasons, no files with real training data are provided.
 </p>
 
 
-[💾 Ir a la documentacion de la base de datos](https://dbdocs.io/anfehumu2.0/Unicatolica)
-
-[💿 Ir a la documentacion del proyecto]()
+[💾 Go to data base documentation](https://dbdocs.io/anfehumu2.0/Unicatolica)
