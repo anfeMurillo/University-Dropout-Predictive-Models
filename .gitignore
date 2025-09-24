@@ -3,6 +3,8 @@
 *.csv
 .db
 *.db
+.xlsx
+*.xlsx
 
 
 # Python-generated files
