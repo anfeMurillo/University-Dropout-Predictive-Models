@@ -2,11 +2,9 @@
   <img src="./predictive_models/docs/_static/images/logo_unicatolica.png" alt="Mi imagen" width="300">
 </p>
 
-Predictive Models
+by: Andres Felipe Murillo
 
-Unicatolica
-
-Andres Felipe Murillo
+teacher: Nazly Rocio Hincapie
 
 Dropout University Prediction Models
 
