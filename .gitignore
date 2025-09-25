@@ -5,6 +5,8 @@
 *.db
 .xlsx
 *.xlsx
+.pkl
+*.pkl
 
 
 # Python-generated files
